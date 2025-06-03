@@ -170,7 +170,7 @@ export default function Certifications() {
           </div>
 
           {/* Call to Action */}
-          <div className="text-center">
+{/*           <div className="text-center">
             <Card className="max-w-2xl mx-auto">
               <CardContent className="p-6">
                 <h3 className="text-xl font-bold mb-2">All Certificates</h3>
@@ -184,7 +184,7 @@ export default function Certifications() {
                 </Button>
               </CardContent>
             </Card>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
