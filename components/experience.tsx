@@ -7,7 +7,7 @@ export default function Experience() {
     {
       title: "IT Intern (Junior Software Engineer)",
       company: "Prowess Infotech",
-      period: "Aug 2024 - Present",
+      period: "Aug 2024 - Nov 2024",
       location: "Riyadh, Saudi Arabia (Remote)",
       achievements: [
         "Worked on 2+ dynamic websites with focus on reliability, performance optimization, and seamless functionality",
