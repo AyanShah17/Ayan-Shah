@@ -48,7 +48,7 @@ export default function Certifications() {
       type: "Professional",
     },
     {
-      title: "Technology Consulting Job Simulation",
+      title: "Cloud Platform Job Simulation",
       issuer: "Forage",
       description: "Comprehensive technology consulting simulation focusing on client solutions and technical strategy",
       date: "Feb 2025",
